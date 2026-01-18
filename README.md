@@ -15,7 +15,7 @@
 ## 🧠 Data Science Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,GCP,mysql,html,bootstrap,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,gcp,mysql,html,bootstrap,git,github&theme=dark" />
 </p>
 
 ---
