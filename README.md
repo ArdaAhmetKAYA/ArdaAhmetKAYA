@@ -12,15 +12,19 @@
     I enjoy learning modern data engineering tools and improving data workflows.
 </p>
 
+## 📬 Let's Connect
 <p align="center">
-  <a href="https://medium.com/@kayaardaahmet00" style="margin:0 8px;">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=3B82F6"/>
+  <a href="https://www.linkedin.com/in/arda-ahmet-kaya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/arda-ahmet-kaya/" style="margin:0 8px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="32" style="filter: invert(55%) sepia(93%) saturate(4600%) hue-rotate(197deg) brightness(95%) contrast(90%);"/>
+  <a href="https://medium.com/@kayaardaahmet00" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/ardaahmetkaya00" style="margin:0 8px;">
-    <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=3B82F6"/>
+  <a href="https://www.kaggle.com/ardaahmetkaya00" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@ArdaAhmetKaya0" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
