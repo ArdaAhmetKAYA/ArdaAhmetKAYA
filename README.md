@@ -13,20 +13,16 @@
 </p>
 
 ## 📬 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/arda-ahmet-kaya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@kayaardaahmet00" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/ardaahmetkaya00" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@ArdaAhmetKaya0" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" />][linked]
+[<img align="left" alt="youtube" src="https://img.shields.io/badge/YouTube-%2312100E.svg?&style=for-the-badge&logo=YouTube&logoColor=red" />][youtube]
+[<img align="left" alt="kaggle" src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=blue" />][kaggle]
+
+ 
+[blog]: https://medium.com/@kayaardaahmet00
+[linked]: https://www.linkedin.com/in/arda-ahmet-kaya/
+[youtube]: https://www.youtube.com/@ArdaAhmetKaya0
+[kaggle]: https://www.kaggle.com/ardaahmetkaya00
 
 ---
 
