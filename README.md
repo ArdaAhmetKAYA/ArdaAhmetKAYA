@@ -51,4 +51,4 @@
 
 ## 🐍 Contribution Snake
 
-![snake animation](https://github.com/ardaahmetkaya/ardaahmetkaya/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/ardaahmetkaya/ardaahmetkaya/output/github-contribution-grid-snake.svg)
