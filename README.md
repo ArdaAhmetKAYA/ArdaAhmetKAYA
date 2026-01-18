@@ -15,7 +15,7 @@
 ## 🧠 Data Science Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,postgres,mysql,html,bootstrap,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,GCP-Light,mysql,html,bootstrap,git,github&theme=dark" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats (Neon)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ardaahmetkaya&show_icons=true&theme=radical" />
