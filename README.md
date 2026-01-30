@@ -19,7 +19,7 @@
 [<img align="left" alt="kaggle" src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=blue" />][kaggle]
 
  
-[blog]: https://medium.com/@kayaardaahmet00
+[blog]: https://medium.com/@ardaahmetkaya
 [linked]: https://www.linkedin.com/in/arda-ahmet-kaya/
 [youtube]: https://www.youtube.com/@ArdaAhmetKaya0
 [kaggle]: https://www.kaggle.com/ardaahmetkaya00
