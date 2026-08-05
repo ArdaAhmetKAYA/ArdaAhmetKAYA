@@ -55,10 +55,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ardaahmetkaya&show_icons=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaahmetkaya&layout=compact&title_color=3B82F6&text_color=CBD5E1&bg_color=00000000)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ardaahmetkaya&theme=react-dark)
 
 ---
