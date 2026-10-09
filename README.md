@@ -51,6 +51,7 @@
 
 ## ✍️ Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [github deneme](https://medium.com/@ardaahmetkaya/deneme-f29dbbbe2902?source=rss-89b40b157027------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
