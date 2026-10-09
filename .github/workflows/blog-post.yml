@@ -13,4 +13,4 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/@ardaahmetkaya"
+          feed_list: "https://medium.com/feed/@ardaahmetkaya"
